@@ -1,4 +1,6 @@
-# Justjava2
+# Justjava 
+
+## Coffee Ordering App
 
 - Udacity Google India Challenge scholar Android Basics Course phase-1 project
 
